@@ -1,0 +1,10 @@
+input[type="file"] {
+    display: none;
+}
+
+#qr-canvas {
+  width: 100%;
+  max-width: 100%;
+  outline-style: solid;
+  outline-width: 0.5px;
+}
